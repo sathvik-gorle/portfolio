@@ -14,7 +14,7 @@ import { SectionHeader } from '@/components/SectionHeader';
 import { Card } from '@/components/Card';
 import { motion } from 'framer-motion';
 
-import ProjectRefugee from '@/assets/images/projectrefugee.jpeg'
+import ProjectRefugee from '@/assets/images/projectrefugee.png'
 import Terrabite from '@/assets/images/terrabite.png'
 import Robotics from '@/assets/images/yeti.png'
 
