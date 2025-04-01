@@ -85,7 +85,7 @@ const entrepreneurialVentures = [
     name: "terrabite",
     description:
       "An upcoming venture focused on green biochar concrete.",
-    link: "https://entrepreneurship.ncssm.edu/acceleration#h.lt6ip0pa2km0",
+    link: "https://www.terrabitenc.com/",
     image: Terrabite,
   },
   {
