@@ -41,7 +41,7 @@ const portfolioProjects = [
       { title: "Assesses damage from satellite data" },
       { title: "Developed front end & actively working on back-end" },
     ],
-    link: "https://radar-web-flame.vercel.app",
+    link: "https://devpost.com/software/radar-rapid-assesment-and-damage-analysis-for-relief/updates/617627",
     image: RADAR,
   },
   {
